@@ -6,7 +6,7 @@
 
   <groupId>build.test</groupId>
   <artifactId>build_project</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.6-SNAPSHOT</version>
 
   <name>build_project</name>
   <!-- FIXME change it to the project's website -->
